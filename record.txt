@@ -1,0 +1,4 @@
+('ereere', 'nnn', 'hhhhhh', 'jjjj', 'ghgh', 1)
+('ram', '9898989', 'male', '767676767', 'yes', 1)
+('gjgjh', 'jj', 'jj', 'jj', 'j', 1)
+('jjk', '78787', 'male', '787878', 'bjj', 1)
